@@ -38,11 +38,11 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.RecentNotes({
+    Component.DesktopOnly(Component.RecentNotes({
       title: "Recent Writing",
       filter: (note) => note.frontmatter?.title !== "Home",
       showTags: false
-    }),
+    })),
     Component.Explorer()
     
   ],
