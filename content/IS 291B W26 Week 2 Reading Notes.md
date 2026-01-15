@@ -1,3 +1,11 @@
+---
+title: IS 291B W26 Week 2 Reading Notes
+draft: "false"
+tags:
+  - class-notes
+  - information-studies
+---
+
 # Robertson, Craig. _The Filing Cabinet: A Vertical History of Information_ (selections). University of Minnesota Press, 2021.
 ## Notes
 ### Summary
