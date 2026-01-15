@@ -1,9 +1,15 @@
-#blacktechnicalobject #blackpathology #ai #machinelearning
-
+---
+title: How do we set the Black technical free?
+draft: "false"
+tags:
+  - "#blacktechnicalobject"
+  - "#blackpathology"
+  - ai
+  - machinelearning
+---
 By analyzing it I hope to destroy it 
 
 ––Frantz Fanon
-
   
 In our attempts to make ourselves comprehensible to technological systems and data regimes, we also open ourselves to capture. We cast ourselves through the prism of technology and the digital, scattering into many digital doppelgängers. Through the totalizing subsuming project of big data and its logics, it attempts to collect these digital selves and put them in motion, tracing the possibility space of potential actions to predict and commodify. These effects of the digital and the challenges of digital representation can be felt in the modern techno-culture in attempts for greater authenticity identity on social platforms. This tension of trying to technologize the self into digital representations that don't fit reveals an already unsettled tension about how we understand the self and identity, as singular and decided. However, what if identity was already understood as rhizomatic and multiplicitous. This relationship between the self in the specific and culture at the macro level becomes more complicated when we add Blackness to the equation. Ramon Amaro's recent monograph, The Black Technical Object represents one of the most recent and comprehensive meditations on the intersection of Blackness, Machine Learning, and Artificial Intelligence. Amaro sets the scene and takes up the discussion of our modern Western neurosis and obsession with data as an expression of aspirational hegemonic ideal and reification and concretization of the logics of categorization. Under assumptions of race and the logics of categorization Blackness is an object ready for analysis, consumption, and algorithmic reassembly through the white imaginary. This is present in the historical legacy and ideological/metaphysical presuppositions of machine learning. He performs this analysis by investigating the historical context and evolution of machine learning from mathematics, specifically probability and statistics, alongside a philosophical critique and psychoanalytic approach to our algorithmically driven age. Amaro's analysis ultimately advances the concept of the Black Technical Object, from which this exhibition takes its title and inspiration. Creative engagement with this concept through the exhibition, and this speculative writing piece engages with the question Amaro asks and seeks to build a generative frame to explore: How do we set the Black Technical Object free?
 
