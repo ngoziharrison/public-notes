@@ -9,3 +9,17 @@ draft: "false"
 My research is focused on the social aspects of mathematical knowledge, particularly the mathematics and computational methods behind AI, algorithms, and sociotechnical systems. I am interested in how mathematical methods and formalizations affect the algorithmic technologies we use everyday and my goal is to create just liberatory technologies.
 
 My interests stretch across critical scholarship on technology, mathematics, and computational methods
+
+This space is a place for my writings, class notes, and quick ideas as I work through my research. 
+
+# Current Reading
+
+## Research
+
+| Black Life Matter by Biko Mandela Gray | Frantz Fanon: Combad Breathing by Nigel C. Gibson |
+| -------------------------------------- | ------------------------------------------------- |
+| ![](black-life-matter.png)             | ![](combat-breathing.png)                         |
+
+### Fiction
+
+

@@ -38,7 +38,13 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.RecentNotes({
+      title: "Recent Writing",
+      filter: (note) => note.frontmatter?.title !== "Home",
+      showTags: false
+    }),
+    Component.Explorer()
+    
   ],
   right: [
     Component.Graph(),
