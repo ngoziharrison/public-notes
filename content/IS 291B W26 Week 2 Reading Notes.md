@@ -45,8 +45,7 @@ These are my reading notes from taking *Histories of the Database* with Prof. Mi
 ## Notes
 ## Summary
 - In this book rosenthal seeks to situate the modern business practices and accounting methods within the long history of plantations and slavery in the united states. Many of the modern practices for calculation that are so core to capitalism initially developed in order to efficiently track and extract labor form human cargo in the american south and west indies. 
-- Rosenthal argues that slavery is central to understandig the historical emergence of capitalism
-- 
+- Rosenthal argues that slavery is central to understanding the historical emergence of capitalism
 ## Introduction
 - Scientific agriculture or what was called book farming were a variety of practices that plantation owners would use to do record keeping and numerical analysis of their plantations. they also would create possible scenarios and projections to set target, make comparisons, and make benchmarks.
 - Control is at the heart of modern accounting practice and slavery functioned as the laboratory for the development of accounting practices
@@ -64,7 +63,6 @@ These are my reading notes from taking *Histories of the Database* with Prof. Mi
 - records of sale, ledgers, quantitative data and qualitative comments arranged in a grid
 - The same level of control didn't exist in the north and in industrial factories
 - The collection and documenting of these records also provided abolitionists with evidence of the brutal conditions of slavery
-- 
 
 ## Questions
 - they definitely didn't talk about slavery in my business management classes
