@@ -6,6 +6,7 @@ tags:
   - "#blackpathology"
   - ai
   - machinelearning
+date: 2023-06-18
 ---
 By analyzing it I hope to destroy it 
 
