@@ -21,7 +21,7 @@ Prof Miriam Posner
 		- Deep learning is a sub sub discipline that used multilayers neural nets or a deep learning network
 			- A Large language model is a package of statistics that documents or models language
 			- LLMs make use of neural nets which is a specific approach approach to machine learning
-			- ![](public-notes/Pasted%20image%2020260112111403.png)
+			- ![](Pasted%20image%2020260112111403.png)
 #### Expert systems/Knowledge Engineering 1970-1995
 - Find human experts in different domains and seek to document their expertise using interview
 - draw up a set of rules based on those interviews and then formalize and revise
@@ -65,10 +65,10 @@ Prof Miriam Posner
 - Fine tuning
 - Prompt Engineering
 - RLHF
-- ![](public-notes/Pasted%20image%2020260112120118.png)
+- ![](Pasted%20image%2020260112120118.png)
 #### RAG
 - Retrieval Augmented Generation
-- ![](public-notes/Pasted%20image%2020260112120434.png)
+- ![](Pasted%20image%2020260112120434.png)
 ## Wednesday
 Prof. Munia Bhaumik
 ### What is Missing is Still there - Missing Datasets
