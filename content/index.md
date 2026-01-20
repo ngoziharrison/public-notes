@@ -16,10 +16,9 @@ This space is a place for my writings, class notes, and quick ideas as I work th
 
 ## Research
 
-| Black Life Matter by Biko Mandela Gray | Frantz Fanon: Combad Breathing by Nigel C. Gibson |
-| -------------------------------------- | ------------------------------------------------- |
-| ![](black-life-matter.png)             | ![](combat-breathing.png)                         |
+| Black Life Matter by Biko Mandela Gray | Frantz Fanon: Combat Breathing by Nigel C. Gibson | On the Existence of Digital Objects by Yuk Hui |
+| -------------------------------------- | ------------------------------------------------- | ---------------------------------------------- |
+| ![](black-life-matter.png)             | ![](combat-breathing.png)                         | ![](Pasted%20image%2020260120111418.png)       |
 
-### Fiction
 
 
