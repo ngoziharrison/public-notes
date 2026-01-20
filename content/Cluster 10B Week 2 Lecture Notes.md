@@ -1,3 +1,12 @@
+---
+title: Cluster 10B Data Justice and Society Week 2 Lecture Notes
+draft: "false"
+tags:
+  - class-notes
+  - criticaldatastudies
+date: 2026-01-12
+---
+
 Date: 2026-01-12
 Lecture Cluster 10B Week 2 Lecture Notes
 # Notes
