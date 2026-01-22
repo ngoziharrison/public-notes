@@ -14,8 +14,6 @@ This space is a place for my writings, class notes, and quick ideas as I work th
 
 # Current Reading
 
-## Research
-
 | Black Life Matter by Biko Mandela Gray | Frantz Fanon: Combat Breathing by Nigel C. Gibson | On the Existence of Digital Objects by Yuk Hui |
 | -------------------------------------- | ------------------------------------------------- | ---------------------------------------------- |
 | ![\|200](black-life-matter.png)        | ![\|200](combat-breathing.png)                    | ![\|200](Pasted%20image%2020260120111624.png)  |
