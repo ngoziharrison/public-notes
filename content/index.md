@@ -22,4 +22,4 @@ This space is a place for my writings, class notes, and quick ideas as I work th
 
 | Mathematics for Machine Learning by A. Aldo Faisal, Cheng Soon Ong, and Marc Peter Deisenroth |
 | --------------------------------------------------------------------------------------------- |
-| ![\|100](Pasted%20image%2020260120112351.png)                                                 |
+| ![\|30](Pasted%20image%2020260120112351.png)                                                  |
