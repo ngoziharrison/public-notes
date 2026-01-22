@@ -1,6 +1,6 @@
 ---
 title: IS 291B W26 Week 3 Reading Notes
-draft: "true"
+draft: "false"
 tags:
   - class-notes
   - information-studies
