@@ -17,7 +17,7 @@ In this article the author traces the history of the terms database and DBMS (da
 - Management Information System
 	- Before the term database, the term MIS was developed to describe a new approach to information within a firm. An MIS would be a centralized body of data containing all of the various kinds of information of a firm which when pooled and computerized could be used for forecasting, reporting, modelling, and analysis
 - The term database comes form the military a part of the SAGE command and control network
-- ![](Pasted%20image%2020260122054238.png)
+- ![](Files/Pasted%20image%2020260122054238.png)
 #### DBMS
 - DBMS evolved out of file management systems and report generation
 - File management systems were developed to handle input and output tasks for programs, before the development of these systems, programmers would have to write all of the minute instructions for reading and writing data.
@@ -114,7 +114,8 @@ In this article the author traces the history of the terms database and DBMS (da
 - In this article Olsen uses Foucaultian Discourse analysis to analyze Parminides fragments, Plato's the Sophist, and Aristotles Prior Analytics, Parts of Animals, and Generation of Animals to identify three underlying presumptions of classical logic. Thes presumptions are the notion of mutually exclusive categories, teleology, and hierarchy. Olsen argues that these ideas are linked to classificatory thought in the western tradition and reveals how classificaiton is a cultural construction that may be incompatible with other cultures or marginalized cultures in the west.
 ## Notes
 - Olsen traces the presumptions underlying classification back to the development of logic in 4th century Greece BCE
-- 
+- Hierarchical force
+	- Da Silva Toward a Global Idea of Race enlightenment reason authorizes the creation of various...
 #### Methodology
 - Uses Foucaultian Discourse Analysis examining texts to identity the discourses that underly classifacatory thought and practice in western culture
 - Discourse analysis is a poststructuralist methodology to identify and question the underlying presumptions that animate discourse
