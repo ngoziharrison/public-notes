@@ -40,6 +40,7 @@ These are my reading notes from taking *Histories of the Database* with Prof. Mi
 
 # Sawtelle, Thomas K. *The Emerging Role of the Data Base Manager*. R-1253-PR. United States Airforce Project Rand, 1973. [http://archive.org/details/ERIC_ED095918](http://archive.org/details/ERIC_ED095918).
 ## Summary
+
 ## Notes
 ## Questions
 
@@ -113,7 +114,7 @@ $\text{Quantity} \leftrightarrow \text{Quality}$
 ### Examples
 - Wasp and the orchid are heterogeneous and form an assemblage, each deterritorializes and reterritorializes the other.
 - We form a rhizome with our viruses
-- Even when there is something the follows an arboreal structure like certain plants (i.e. trees) it likely forms a rhizome with something else\
+- Even when there is something the follows an arboreal structure like certain plants (i.e. trees) it likely forms a rhizome with something else
 ### Key Concepts
 - Rhizome
 - lines of articulation
